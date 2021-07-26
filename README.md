@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Kamran
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Software devlopment using java
 - 🌱 I’m currently learning Java Full Stack
 - 📫 How to reach me
 Email - mohdkamran5006@gmail.com
